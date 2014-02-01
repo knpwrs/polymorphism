@@ -1,6 +1,6 @@
 {
   "name": "polymorphism",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Attaches a non-enumerable `extend` function to `Function.prototype`.",
   "main": "lib/index.js",
   "scripts": {
