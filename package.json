@@ -1,0 +1,34 @@
+{
+  "name": "polymorphism",
+  "version": "0.0.0",
+  "description": "Attaches a non-enumerable `extend` function to `Function.prototype`.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KenPowers/polymorphism.git"
+  },
+  "keywords": [
+    "polymorphism",
+    "extend",
+    "extends",
+    "class"
+  ],
+  "author": {
+    "name": "Kenneth Powers",
+    "email": "ken@kenpowers.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KenPowers/polymorphism/issues"
+  },
+  "homepage": "https://github.com/KenPowers/polymorphism",
+  "devDependencies": {
+    "gulp": "~3.5.0",
+    "gulp-spawn-mocha": "~0.1.1",
+    "mocha": "~1.17.1",
+    "chai": "~1.9.0"
+  }
+}
