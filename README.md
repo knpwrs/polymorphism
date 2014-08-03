@@ -48,9 +48,9 @@ c.logData(); // 'foo'
 ## Differences from Other Modules
 Much like the [`inherits`][inherits] module this module is meant to be used
 with both [node.js][node] and [browserify][bfy] so you don't have to export
-node's entire [`util` module][util] module to the browser when sharing code
-between the server and browser. Unlike the [`inherits`][inherits] module and
-the [`util.inherits`][node-ui] function this module defines its functionality
+node's entire [`util` module][util] to the browser when sharing code between
+the server and browser. Unlike the [`inherits`][inherits] module and the
+[`util.inherits`][node-ui] function this module defines its functionality
 as a non-enumerable property on `Function.prototype` (more information
 [here][so]).
 
