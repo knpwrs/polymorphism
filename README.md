@@ -1,5 +1,7 @@
 # polymorphism
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/knpwrs/polymorphism.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/KenPowers/polymorphism.png)](https://travis-ci.org/KenPowers/polymorphism)
 
 This is a *very* small [node.js][node] module which adds a non-enumerable
